@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Demo()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Demo\r\n
+comment1.params=
+comment1.target=void\ sampleDemo()
+comment1.text=\r\n\ Demo\ method\ -\ demonstrates\ what\ happens\ when\ different\ pinball\ objects\ rebounds\ off\ the\ all\ four\ sides\ of\ the\ wall\r\n
+numComments=2
